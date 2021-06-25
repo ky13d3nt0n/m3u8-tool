@@ -1,0 +1,12 @@
+__snapshots__
+__coverage__
+__mocks__
+__mockData__
+webpack.config.js
+!.eslintrc
+
+# Node Modules #
+node_modules/**
+**/node_modules
+
+# Project Files #

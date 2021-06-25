@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "allowUnreachableCode": true,
+    "allowSyntheticDefaultImports": true,
+    "allowUnusedLabels": true,
+    "alwaysStrict": false,
+    "charset": "utf8",
+    "checkJs": false,
+    "diagnostics": false,
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "importHelpers": false,
+    "lib": [
+      "es5",
+      "es6",
+      "es2015.iterable",
+      "es7",
+      "dom"
+    ],
+    "baseUrl": ".",
+    "locale": "en",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "noImplicitAny": false,
+    "sourceMap": false,
+    "removeComments": false,
+    "target": "es6",
+    "types": [ "node" ],
+    "version": false,
+    "watch": false
+  },
+  "include": [],
+  "exclude": []
+}
